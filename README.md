@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yusuf Abdul
 - 👀 I’m interested in Data and Engineering
 - 🌱 I’m currently a Graduate student at UC Berkeley
-- 💞️ I’m looking to collaborate on open source project. 
+- 💞️ I’m looking to collaborate on open source projects. 
 - 📫 How to reach me: send an email to amyusuf.it@gmail.com
 
 <!---
