@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf Abdul
-- 👀 I’m interested in Data and Engineering
+- 👀 I’m interested in DS and Machine Learning
 - 🌱 I’m currently a Graduate student at UC Berkeley
 
 <!---
